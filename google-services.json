@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646310539328",
+    "project_id": "anna-64ce3",
+    "storage_bucket": "anna-64ce3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646310539328:android:e336b1fb9ce29687162fa5",
+        "android_client_info": {
+          "package_name": "com.anna.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkdQtraIkxxK4zu03kO3Nz2fSotAbGyq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

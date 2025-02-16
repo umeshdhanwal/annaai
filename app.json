@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "your.package.name",
+      "package": "com.anna.ai",
       "googleServicesFile": "./google-services.json"
     },
     "web": {
@@ -37,6 +37,7 @@
       "eas": {
         "projectId": "eb1f0761-547c-4764-9ab9-01752d71b090"
       }
-    }
+    },
+    "owner": "umeshdhanwal"
   }
 }
